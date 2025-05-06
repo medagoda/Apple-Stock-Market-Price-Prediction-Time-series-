@@ -49,9 +49,6 @@ Apple-Stock-Price-Prediction/
 - The LSTM model was able to learn the stock price trend patterns.
 - Predicted values followed the actual prices closely, indicating potential for further enhancement with more features.
 
-## 📷 Sample Output
-
-> ![Sample prediction plot](path_to_image_if_available.png)
 
 ## 🚀 Future Enhancements
 
